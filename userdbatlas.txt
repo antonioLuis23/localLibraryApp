@@ -1,0 +1,4 @@
+user: atlasdb
+senha: minhasenha1029
+
+mongodb+srv://atlasdb:minhasenha1029@cluster0.h6cw3.gcp.mongodb.net/local_library?retryWrites=true&w=majority
